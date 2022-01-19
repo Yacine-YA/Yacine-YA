@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yacine-YA
-- 👀 I’m interested in high school and i'm attempted to applied in BsC Mathematics and Computing studies
+- 👀 I’m currently in my last year in  high school and i'm attempted to applied in BsC Mathematics and Computing studies
 - 🌱 I’m currently learning Node.JS
 - 📫 How to reach me Yacine#3451 in Discord
 
